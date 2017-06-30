@@ -1,0 +1,28 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.editorconfig
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+*.log
+build/
+
+#vagrant
+.vagrant/
+*.box
+
+# Front-end ( web-entry )
+node_modules/
+target
